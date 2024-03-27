@@ -8,7 +8,7 @@ a- https://computing.llnl.gov/tutorials/pthreads/
 b- https://www.cs.cf.ac.uk/Dave/C/
 
 
-1) Compile el ejemplo que crea 5 hilos (threads.c) utilizando:
+1) Compile el ejemplo que crea 5 hilos (4-threads.c) utilizando:
 
     $ gcc -Wall -pthread -o ht ht.c
 
